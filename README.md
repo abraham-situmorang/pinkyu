@@ -66,3 +66,10 @@ Remove-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" 
 ### Option 3: Via Windows Startup Folder
 1. Press `Win + R`, type `shell:startup`, and press Enter.
 2. Create a shortcut to `Pinkyu.exe` inside that folder.
+
+---
+
+## 👤 Author
+
+**Abraham Situmorang**
+
