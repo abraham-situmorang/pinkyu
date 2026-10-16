@@ -1,0 +1,16 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
