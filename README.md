@@ -24,12 +24,11 @@ An ultra-lightweight Windows desktop utility with zero window UI that monitors y
 
 ---
 
-## 📍 Executable Location
+## 📍 Executable (Direct Download)
 
-The standalone single-file portable build is located at:
-```text
-C:\repos\pingkyu\publish\Pinkyu.exe
-```
+You can download `Pinkyu.exe` directly from the root of this repository:
+- **Direct download**: [Pinkyu.exe](https://raw.githubusercontent.com/abraham-situmorang/pinkyu/main/Pinkyu.exe) or clone/download this repository.
+- **Local path**: `Pinkyu.exe` in this folder.
 
 ---
 
